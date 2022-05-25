@@ -33,3 +33,15 @@ https://www.sciencedirect.com/science/article/pii/S104244312030072X?via%3Dihub
 
 7. Predicting the Effects of News Sentiments on the Stock Market  
 https://ieeexplore.ieee.org/abstract/document/8621884
+
+8. Textual Sentiment in Finance: A Survey of Methods and Models  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2213801
+
+9. Are Investors Influenced By How Earnings Press Releases Are Written?  
+https://journals.sagepub.com/doi/10.1177/0021943608319388
+
+10. The effect of manager-specific optimism on the tone of earnings conference calls   
+https://www.researchgate.net/publication/276477867_The_effect_of_manager-specific_optimism_on_the_tone_of_earnings_conference_calls
+
+11. Earnings conference calls and stock returns: The incremental informativeness of textual tone  
+ https://econpapers.repec.org/article/eeejbfina/v_3a36_3ay_3a2012_3ai_3a4_3ap_3a992-1011.htm
