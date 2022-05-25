@@ -45,3 +45,8 @@ https://www.researchgate.net/publication/276477867_The_effect_of_manager-specifi
 
 11. Earnings conference calls and stock returns: The incremental informativeness of textual tone  
  https://econpapers.repec.org/article/eeejbfina/v_3a36_3ay_3a2012_3ai_3a4_3ap_3a992-1011.htm
+ 
+ 
+### GloVe: Global Vectors for Word Representation from Standford
+https://nlp.stanford.edu/projects/glove/
+https://github.com/stanfordnlp/GloVe
