@@ -1,4 +1,6 @@
-# Doc2Vec
+# Model
+
+## 1. Doc2Vec
 We imply Doc2Vec method to learn paragraph and document embeddings via the distributed memory and distributed bag of words models.
 
 For a usage example, see the: https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py.
@@ -8,8 +10,10 @@ For a usage example, see the: https://radimrehurek.com/gensim/auto_examples/tuto
   - Try model on simple paragraph. No error was occurred
   - Still need to tune for hyperparameters and run evaluation, but need more doc 
 
+## 2. Text Classification:
+The dataset for fine-tuning is the [Financial Phrase Bank Dataset](https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10) that was collected by [Maloet al, 2014](https://arxiv.org/abs/1307.5336) 
 
-### some of the papers that might be useful
+### Some of the papers that might be useful
 
 1. Predicting Market-Volatility from
 Federal Reserve Board Meeting Minutes
@@ -49,4 +53,5 @@ https://www.researchgate.net/publication/276477867_The_effect_of_manager-specifi
  
 ### GloVe: Global Vectors for Word Representation from Standford
 https://nlp.stanford.edu/projects/glove/
+
 https://github.com/stanfordnlp/GloVe
