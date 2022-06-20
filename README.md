@@ -5,13 +5,11 @@ We imply Doc2Vec method to learn paragraph and document embeddings via the distr
 
 For a usage example, see the: https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py.
 
-### Status:
-* May 19: 
-  - Try model on simple paragraph. No error was occurred
-  - Still need to tune for hyperparameters and run evaluation, but need more doc 
-
 ## 2. Text Classification:
 The dataset for fine-tuning is the [Financial Phrase Bank Dataset](https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10) that was collected by [Maloet al, 2014](https://arxiv.org/abs/1307.5336) 
+
+## 3. Twitter samples:
+This pre-trained dataset is inside nltk packages, contains 5k positive tweets and 50 negative tweets.
 
 ### Some of the papers that might be useful
 
